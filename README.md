@@ -1,8 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# VUTTR
 
-First, run the development server:
+Very Useful Tools to Remember (VUTTR) is a sample app built with [ReactJS](https://reactjs.org), [NextJS](https://nextjs.org) and [MaterialUI](https://material-ui.com).
+
+
+## Run Locally
+
+1. Clone the project
+
+```bash
+  git clone https://github.com/lucasferreiralsf/vuttr.git
+```
+
+2. Go to the project directory
+
+```bash
+  cd vuttr
+```
+
+3. Install dependencies
+
+```bash
+  npm install
+  # or
+  yarn
+```
+
+4. Start the developer server
 
 ```bash
 npm run dev
@@ -10,25 +34,11 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Author
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [@lucasferreiralsf](https://www.github.com/lucasferreiralsf)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+My name is Lucas. I'm a software developer with expiriences in Cloud (AWS), Docker, Kubernetes, ReactJS, Javascript, Typescript, NodeJS, Flutter, React Native and now I'm a golang enthusiast.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you are interested in my jobs, please don't hesitate to contact me on [Linkedin](https://www.linkedin.com/in/lucasferreiralsf/)
